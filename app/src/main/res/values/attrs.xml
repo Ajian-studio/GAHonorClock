@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="pointRadius" format="dimension" />
+        <attr name="pointColor" format="color" />
+        <attr name="timeTextSize" format="dimension" />
+        <attr name="timeTextColor" format="color" />
+        <attr name="timeScaleWidth" format="dimension" />
+        <attr name="timeScaleHeight" format="dimension" />
+        <attr name="timeScaleColor" format="color" />
+    </declare-styleable>
+</resources>
