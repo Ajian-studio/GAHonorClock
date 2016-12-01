@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Clock</string>
+    <string name="app_name">GAHonorClock</string>
     <string name="clock_by_img">show clock by img</string>
     <string name="clock_by_calculation">show clock by calculation</string>
     <string name="clock_by_path">show clock by path</string>
